@@ -4,15 +4,15 @@ Es importante que **NO** hagas merge de tu PR tu mismo hasta que un mentor lo re
 
 ## Resumen de la misión
 
-<!-- Explica en 2-5 líneas qué misión estás entregando y qué resolviste. -->
+Hice una pagina de noticias/articulos sobre gatos
 
 ### Misión
 
-<!-- Ejemplo: Misión 1 - HTML semántico -->
+Misión 1 - HTML semántico
 
 ### ¿Qué implementaste?
 
-<!-- Lista breve de cambios realizados. -->
+Implemente articulos, links para redireccionar a otras paginas, semantica bien separada (creo), etc.
 
 
 
@@ -20,18 +20,18 @@ Es importante que **NO** hagas merge de tu PR tu mismo hasta que un mentor lo re
 
 Marca con `x` lo que ya cumpliste:
 
-- [ ] Mi rama sigue el formato de la misión (ejemplo: `mision-x`).
-- [ ] Hice commit(s) con mensajes claros.
-- [ ] Subí mis cambios a GitHub (`git push origin mi-rama`).
-- [ ] Mi PR apunta desde mi rama hacia `main`.
-- [ ] Revisé mi código antes de abrir el PR.
-- [ ] Probé que el resultado funciona correctamente.
-- [ ] No hice merge por mi cuenta.
+- [x] Mi rama sigue el formato de la misión (ejemplo: `mision-x`).
+- [x] Hice commit(s) con mensajes claros.
+- [x] Subí mis cambios a GitHub (`git push origin mi-rama`).
+- [x] Mi PR apunta desde mi rama hacia `main`.
+- [x] Revisé mi código antes de abrir el PR.
+- [x] Probé que el resultado funciona correctamente.
+- [x] No hice merge por mi cuenta.
 
 
 ## Uso de IA (obligatorio si aplica)
 
 Según las reglas del repositorio, el uso de IA para resolver misiones está restringido.
 
-- [ ] No usé IA para resolver la misión.
+- [x] No usé IA para resolver la misión.
 - [ ] Sí usé IA y agregué/actualicé `IA.md` con los chats correspondientes.
